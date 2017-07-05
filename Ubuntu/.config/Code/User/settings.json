@@ -1,0 +1,12 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "Source Code Pro",
+    "editor.minimap.enabled": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.renderIndentGuides": true,
+    "files.trimTrailingWhitespace": true,
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true
+}

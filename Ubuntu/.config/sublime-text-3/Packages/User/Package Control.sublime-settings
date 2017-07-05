@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Autoprefixer",
+		"Color Highlighter",
+		"Compare Side-By-Side",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Go To Definition",
+		"JSX",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SublimeCodeIntel",
+		"TypeScript"
+	]
+}
